@@ -17,7 +17,7 @@ header {
 
 img {
     border-radius: 50%; /* Hace que la foto de perfil sea circular */
-    border: 5px solid #fff;
+    border: 5px solid #8b4fc4;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
 }
 
