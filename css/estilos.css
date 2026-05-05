@@ -158,7 +158,7 @@ el fondo */
 
 .tarjeta img {
     width: 30%;
-    height: 200px;
+    height: 50px;
     object-fit: cover; /* Recorta la imagen para que todas midan lo mismo */
 }
 
